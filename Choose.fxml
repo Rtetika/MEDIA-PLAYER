@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.effect.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox style="-fx-background-color: transparent;" stylesheets="@style2.css" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <children>
+      <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="507.0" prefWidth="733.0">
+         <children>
+            <Label layoutX="136.0" layoutY="180.0" text="PLEASE SELECT THE MODE OF THE PLAYER:" />
+            <Button layoutX="319.0" layoutY="242.0" mnemonicParsing="false" onAction="#OpenMp4" prefHeight="37.0" prefWidth="123.0" text="MP4" />
+            <Button layoutX="319.0" layoutY="289.0" mnemonicParsing="false" onAction="#OpenMp3" prefHeight="37.0" prefWidth="123.0" text="MP3/WAV" />
+            <Button fx:id="close" layoutX="691.0" layoutY="16.0" mnemonicParsing="false" onAction="#close2" prefHeight="35.0" prefWidth="27.0" />
+         </children>
+         <effect>
+            <DropShadow />
+         </effect></AnchorPane>
+   </children>
+   <padding>
+      <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+   </padding>
+</VBox>

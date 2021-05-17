@@ -1,0 +1,9 @@
+This Mp3 player is designed in fxml file and also in css.This mp3 player is for playing songs and musics.
+Just by clicking on the openfile button you can watch any videos (format .mp3 and .wav) smoothly.
+Good news is Javafx does have access in importing and playing the .wav files.
+I hope you like our Mp3 player.
+For farther enquires please contact us.
+
+Thank You for using our player. 
+
+Have a great day :) 

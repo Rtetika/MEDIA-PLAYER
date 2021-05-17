@@ -1,0 +1,10 @@
+This Mp4 player is designed in fxml file and also in css.This mp4 player is for playing movies and videos.
+Just by clicking on the openfile button you can watch any videos (format mp4) smoothly.
+Unfortunately javafx doesn't have access in importing and playing the .mov or .mkv format videos. I hope you understand.
+I hope you like our Mp4 player.
+
+For farther enquires please contact us.
+
+Thank You for using our player. 
+
+Have a great day.:) 
